@@ -1,0 +1,1 @@
+npm i express dotenv mongoose cors express-async-errors http-status-codes jsonwebtoken bcryptjs

@@ -1,0 +1,3 @@
+.app{
+  min-height: 100vh; /* To mnake overflow: hidden work*/
+}
